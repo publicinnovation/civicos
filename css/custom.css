@@ -1,0 +1,20 @@
+/* Page heading */
+body {
+  padding-top: 50px;
+}
+.page-heading {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+/* Font Awesome colors */
+.fa-success {
+  color: #5cb85c;
+}
+.fa-warning {
+  color: #f0ad4e;
+}
+.fa-danger {
+  color: #d9534f;
+}
+
