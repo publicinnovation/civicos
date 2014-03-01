@@ -22,14 +22,37 @@ body {
   color: #fff;
 }
 
+/* Indicators */
+.indicators {
+	padding-top: 40px;
+}
+.panel {
+	border: 0px solid transparent;
+	border-radius: 0px;
+	-webkit-box-shadow: 0 0px 0px rgba(0,0,0,0);
+	box-shadow: 0 0px 0px rgba(0,0,0,0);
+}
+.panel-heading {
+	border-bottom: 0px solid transparent;
+	border-top-right-radius: 0;
+	border-top-left-radius: 0;
+}
+.panel-black {
+	border-color: #0b0c0c;
+}
+.panel-black > .panel-heading {
+	background-color: #0b0c0c;
+	color: #fff;
+
+}
 /* Font Awesome colors */
 .fa-success {
-  color: #5cb85c;
+  color: #32cd32;
 }
 .fa-warning {
-  color: #f0ad4e;
+  color: #ffc40c;
 }
 .fa-danger {
-  color: #d9534f;
+  color: #fa342e;
 }
 
