@@ -1,8 +1,19 @@
-body {
-  padding-top: 50px;
+/* Navbar */
+.navbar-black {
+	background-color: #0b0c0c;
+	border-color: #0b0c0c;
+}
+.navbar-brand {
+	color: #fff;
+}
+.navbar-fixed-top {
+	position: absolute;
 }
 
 /* Homepage masthead */
+body {
+  padding-top: 50px;
+}
 .home-masthead {
   position: relative;
   padding: 40px 15px;
