@@ -1,10 +1,14 @@
-/* Page heading */
 body {
   padding-top: 50px;
 }
-.page-heading {
+
+/* Homepage masthead */
+.home-masthead {
+  position: relative;
   padding: 40px 15px;
   text-align: center;
+  background: #005ea5;
+  color: #fff;
 }
 
 /* Font Awesome colors */
