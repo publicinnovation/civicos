@@ -1,3 +1,14 @@
+/* Font Awesome colors */
+.fa-success {
+  color: #32cd32;
+}
+.fa-warning {
+  color: #ffc40c;
+}
+.fa-danger {
+  color: #fa342e;
+}
+
 /* Typography */
 @import url(http://fonts.googleapis.com/css?family=Lato:300,400,700|Metrophobic);
 body {
@@ -57,14 +68,3 @@ body {
 	color: #fff;
 
 }
-/* Font Awesome colors */
-.fa-success {
-  color: #32cd32;
-}
-.fa-warning {
-  color: #ffc40c;
-}
-.fa-danger {
-  color: #fa342e;
-}
-
