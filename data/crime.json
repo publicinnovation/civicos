@@ -1,0 +1,189 @@
+[
+  {
+    "Year":1996,
+    "Population":"384,090",
+    "Homicide":43,
+    "Rape":154,
+    "Robbery":"1,874",
+    "Aggravated Assault":"1,636",
+    "Burglary":"7,148",
+    "Larceny":"16,842",
+    "Motor Vehicle Theft":"6,083"
+  },
+  {
+    "Year":1997,
+    "Population":"387,440",
+    "Homicide":41,
+    "Rape":161,
+    "Robbery":"1,851",
+    "Aggravated Assault":"1,664",
+    "Burglary":"6,873",
+    "Larceny":"17,282",
+    "Motor Vehicle Theft":"6,260"
+  },
+  {
+    "Year":1998,
+    "Population":"401,411",
+    "Homicide":31,
+    "Rape":141,
+    "Robbery":"1,689",
+    "Aggravated Assault":"1,515",
+    "Burglary":"6,505",
+    "Larceny":"15,733",
+    "Motor Vehicle Theft":"6,006"
+  },
+  {
+    "Year":1999,
+    "Population":"400,665",
+    "Homicide":54,
+    "Rape":143,
+    "Robbery":"1,450",
+    "Aggravated Assault":"1,437",
+    "Burglary":"4,805",
+    "Larceny":"14,761",
+    "Motor Vehicle Theft":"4,460"
+  },
+  {
+    "Year":2000,
+    "Population":"407,018",
+    "Homicide":39,
+    "Rape":147,
+    "Robbery":"1,412",
+    "Aggravated Assault":"1,519",
+    "Burglary":"4,661",
+    "Larceny":"14,690",
+    "Motor Vehicle Theft":"4,870"
+  },
+  {
+    "Year":2001,
+    "Population":"412,918",
+    "Homicide":40,
+    "Rape":169,
+    "Robbery":"1,440",
+    "Aggravated Assault":"1,660",
+    "Burglary":"5,068",
+    "Larceny":"15,977",
+    "Motor Vehicle Theft":"6,337"
+  },
+  {
+    "Year":2002,
+    "Population":"423,084",
+    "Homicide":47,
+    "Rape":185,
+    "Robbery":"1,734",
+    "Aggravated Assault":"1,581",
+    "Burglary":"5,019",
+    "Larceny":"15,548",
+    "Motor Vehicle Theft":"6,666"
+  },
+  {
+    "Year":2003,
+    "Population":"429,918",
+    "Homicide":43,
+    "Rape":187,
+    "Robbery":"1,630",
+    "Aggravated Assault":"1,560",
+    "Burglary":"5,606",
+    "Larceny":"15,374",
+    "Motor Vehicle Theft":"7,286"
+  },
+  {
+    "Year":2004,
+    "Population":"436,799",
+    "Homicide":50,
+    "Rape":195,
+    "Robbery":"1,914",
+    "Aggravated Assault":"2,571",
+    "Burglary":"5,362",
+    "Larceny":"15,455",
+    "Motor Vehicle Theft":"7,290"
+  },
+  {
+    "Year":2005,
+    "Population":"442,662",
+    "Homicide":52,
+    "Rape":170,
+    "Robbery":"2,018",
+    "Aggravated Assault":"3,025",
+    "Burglary":"5,841",
+    "Larceny":"13,320",
+    "Motor Vehicle Theft":"6,922"
+  },
+  {
+    "Year":2006,
+    "Population":"445,774",
+    "Homicide":57,
+    "Rape":196,
+    "Robbery":"2,188",
+    "Aggravated Assault":"3,115",
+    "Burglary":"6,175",
+    "Larceny":"12,762",
+    "Motor Vehicle Theft":"7,175"
+  },
+  {
+    "Year":2007,
+    "Population":"452,711",
+    "Homicide":44,
+    "Rape":194,
+    "Robbery":"2,009",
+    "Aggravated Assault":"2,881",
+    "Burglary":"5,422",
+    "Larceny":"12,904",
+    "Motor Vehicle Theft":"6,073"
+  },
+  {
+    "Year":2008,
+    "Population":"458,965",
+    "Homicide":49,
+    "Rape":168,
+    "Robbery":"1,761",
+    "Aggravated Assault":"2,682",
+    "Burglary":"5,216",
+    "Larceny":"12,373",
+    "Motor Vehicle Theft":"4,910"
+  },
+  {
+    "Year":2009,
+    "Population":"463,633",
+    "Homicide":31,
+    "Rape":179,
+    "Robbery":"1,606",
+    "Aggravated Assault":"2,352",
+    "Burglary":"5,135",
+    "Larceny":"11,720",
+    "Motor Vehicle Theft":"4,146"
+  },
+  {
+    "Year":2010,
+    "Population":"466,488",
+    "Homicide":33,
+    "Rape":164,
+    "Robbery":"1,492",
+    "Aggravated Assault":"2,421",
+    "Burglary":"5,003",
+    "Larceny":"11,140",
+    "Motor Vehicle Theft":"4,005"
+  },
+  {
+    "Year":2011,
+    "Population":"469,477",
+    "Homicide":37,
+    "Rape":134,
+    "Robbery":"1,162",
+    "Aggravated Assault":"2,022",
+    "Burglary":"4,141",
+    "Larceny":"11,087",
+    "Motor Vehicle Theft":"3,335"
+  },
+  {
+    "Year":2012,
+    "Population":"470,956",
+    "Homicide":36,
+    "Rape":125,
+    "Robbery":"1,211",
+    "Aggravated Assault":"2,150",
+    "Burglary":"4,471",
+    "Larceny":"12,146",
+    "Motor Vehicle Theft":"3,345"
+  }
+]
