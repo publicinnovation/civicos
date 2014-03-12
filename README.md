@@ -3,7 +3,7 @@ CivicOS: a platform for collective impact
 
 This is a front-end static prototype of a civic operating system. At its core, CivicOS is a community information tool that is centered around the needs of citizens rather than the structure of government.
 
-## What problem does CivicOS solve?
+### What problem does CivicOS solve?
 Citizens don’t care which city, county, district, state agency, or community based organization is officially designated as the administrator of a specific program. Instead, they rightfully hold all of these entities accountable for collectively improving the quality of life outcomes that they care about.
 
 ### CivicOS starts with quality of life
