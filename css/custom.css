@@ -9,6 +9,9 @@ p, .panel {
 .light {
 	font-weight: 300;
 }
+.shadow {
+	text-shadow: black 0.2em 0.2em 0.4em;
+}
 
 /* Navbar */
 .navbar-black {
@@ -32,6 +35,13 @@ body {
   text-align: center;
   background: #005ea5;
   color: #fff;
+  background-image: url('../img/people.jpg');
+
+  display: table;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
 }
 
 /* Indicators */
