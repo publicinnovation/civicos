@@ -6,6 +6,12 @@ body {
 p, .panel {
 	font-family: 'Metrophobic', Helvetica, Arial, sans-serif;
 }
+.panel-title {
+	font-family: 'Lato', "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 28px;
+	font-weight: 800;
+	color: #252525;
+}
 .light {
 	font-weight: 300;
 }
@@ -23,6 +29,11 @@ p, .panel {
 }
 .navbar-fixed-top {
 	position: absolute;
+}
+
+/* Background color */
+body, .panel {
+  background-color: #ebebeb;
 }
 
 /* Homepage masthead */
@@ -59,13 +70,8 @@ body {
 	border-top-right-radius: 0;
 	border-top-left-radius: 0;
 }
-.panel-black {
-	border-color: #0b0c0c;
-}
-.panel-black > .panel-heading {
-	background-color: #0b0c0c;
-	color: #fff;
-
+.lg-icon {
+	font-size: 120px;
 }
 
 /* Font Awesome colors */
