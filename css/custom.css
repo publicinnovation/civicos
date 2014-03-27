@@ -24,6 +24,10 @@ p, .panel {
 	background-color: #0b0c0c;
 	border-color: #0b0c0c;
 }
+.navbar-blue {
+	background-color: #1E5BA6;
+	border-color: #0b0c0c;
+}
 .navbar-brand {
 	color: #fff;
 }
