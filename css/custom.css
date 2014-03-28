@@ -58,6 +58,16 @@ body {
   width: 100%;
 }
 
+/* Masthead2 */
+.home-masthead2 {
+  position: relative;
+  padding: 40px 15px;
+  padding: 40px 40px 80px 40px;
+  text-align: center;
+  background: #1E5BA6;
+  color: #fff;
+ }
+
 /* Indicators */
 .indicators {
 	padding-top: 40px;
