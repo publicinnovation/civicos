@@ -44,7 +44,7 @@
   <body>
 
     <!-- Navbar -->
-    <div class="navbar navbar-black navbar-fixed-top" role="navigation">
+    <div class="navbar navbar-blue navbar-fixed-top" role="navigation">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -75,11 +75,11 @@
     <!-- Masthead -->
     <div class="home-masthead">
       <h1 id="fittext1" class="shadow">How are we doing, Sacramento?</h1>
-      <h2 id="fittext2" class="light shadow">CivicOS is a platform for collective impact</h2>
+      <h2 id="fittext2" class="light shadow">We're measuring quality of life</h2>
     </div>
 
     <!-- Container below masthead-->
-    <div class="container">
+    <div class="container-fluid">
 
       <!-- Indicators -->
       <div class="indicators">
@@ -218,20 +218,109 @@
 
       </div><!-- /.indicators -->
 
-
-
     </div><!-- /.container -->
 
     <!-- Masthead2 -->
     <div class="home-masthead2">
       <h1 id="fittext3">Who's responsible?</h1>
-      <h2 id="fittext4" class="light">CivicGraph is an open index of the public, private, and nonprofit organizations responsible for our region's quality of life</h2>
+      <h2 id="fittext4" class="light">Use our open index of civic organizations</h2>
     </div>
 
     <!-- Container below masthead2 -->
-    <div class="container">
+    <div class="container-fluid">
+
+      <!-- Government Organizations -->
+      <div class="organizations">
+
+        <h2 class="page-header text-center">Government Organizations</h1>
       
+        <!-- Row 1 organizations -->
+        <div class="row">
+          <div class="col-sm-4">
+            <img class="img-circle img-org img-responsive center-block" data-src="holder.js/200x200/#1E5BA6:#fff/text:Local Government">
+          </div>
+          <div class="col-sm-4">
+            <img class="img-circle img-org img-responsive center-block" data-src="holder.js/200x200/#1E5BA6:#fff/text:State Government">
+          </div>
+          <div class="col-sm-4 ">
+            <img class="img-circle img-org img-responsive center-block" data-src="holder.js/200x200/#1E5BA6:#fff/text:Federal Government">
+          </div>
+        </div><!-- /.row -->
+
+        <!-- Row 2 organizations -->
+        <div class="row">
+          <div class="col-sm-4 ">
+            <img class="img-circle img-org img-responsive center-block" data-src="holder.js/200x200/#1E5BA6:#fff/text:Neighborhoods">
+          </div>
+          <div class="col-sm-4">
+            <img class="img-circle img-org img-responsive center-block" data-src="holder.js/200x200/#1E5BA6:#fff/text:School Districts">
+          </div>
+          <div class="col-sm-4">
+            <img class="img-circle img-org img-responsive center-block" data-src="holder.js/200x200/#1E5BA6:#fff/text:Special Purpose Governments">
+          </div>
+        </div><!-- /.row -->
+
+      </div><!-- /.organizations -->
+
+      <!-- Non-government Organizations -->
+      <div class="organizations">
+
+        <h2 class="page-header text-center">Non-government Organizations</h1>
+      
+        <!-- Row 1 organizations -->
+        <div class="row">
+          <div class="col-sm-4">
+            <img class="img-circle img-org img-responsive center-block" data-src="holder.js/200x200/#1E5BA6:#fff/text:Nonprofit Organizations">
+          </div>
+          <div class="col-sm-4">
+            <img class="img-circle img-org img-responsive center-block" data-src="holder.js/200x200/#1E5BA6:#fff/text:Business Groups">
+          </div>
+          <div class="col-sm-4 ">
+            <img class="img-circle img-org img-responsive center-block" data-src="holder.js/200x200/#1E5BA6:#fff/text:Research Institutions">
+          </div>
+        </div><!-- /.row -->
+
+        <!-- Row 2 organizations -->
+        <div class="row">
+          <div class="col-sm-4 ">
+            <img class="img-circle img-org img-responsive center-block" data-src="holder.js/200x200/#1E5BA6:#fff/text:Professional Associations">
+          </div>
+          <div class="col-sm-4">
+            <img class="img-circle img-org img-responsive center-block" data-src="holder.js/200x200/#1E5BA6:#fff/text:Community Groups">
+          </div>
+          <div class="col-sm-4">
+            <img class="img-circle img-org img-responsive center-block" data-src="holder.js/200x200/#1E5BA6:#fff/text:Labor Unions">
+          </div>
+        </div><!-- /.row -->
+
+      </div><!-- /.organizations -->
+
     </div><!-- /.container -->
+
+      <!-- Masthead3 -->
+      <div class="home-masthead3">
+        <h1 id="fittext5">How might we increase our collective impact?</h1>
+        <h2 id="fittext6" class="light">Help us co-create a new civic experience</h2>
+
+        <div class="col-sm-4 col-sm-offset-4">
+          <div class="email_signup">
+            <form action="http://publicinnovation.us6.list-manage2.com/subscribe/post?u=1ece0430bfb86eaa2e133e651&amp;id=c8d8bd6155" method="post" class="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
+              <div class="form-group">
+                <input class="form-control" id="mce-EMAIL" name="EMAIL" placeholder="Email Address" type="email" value="">
+              </div>
+              <div class="form-group" id="mce-responses">
+                <div class="response" id="mce-error-response" style="display:none"></div>
+                <div class="response" id="mce-success-response" style="display:none"></div>
+              </div>
+              <div class="form-group">
+                <input class="btn btn-outline btn-outline-inverse btn-lg" id="mc-embedded-subscribe" name="subscribe" type="submit" value="Get Notified">
+              </div>
+            </form>
+          </div><!-- /.mc_embed_signup -->
+        </div><!-- /.col -->
+
+      </div><!-- /.masthead3 -->
+
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
@@ -246,6 +335,11 @@
       $("#fittext2").fitText(2.2, { minFontSize: '0px', maxFontSize: '36px' });
       $("#fittext3").fitText();
       $("#fittext4").fitText(2.2, { minFontSize: '0px', maxFontSize: '36px' });
+      $("#fittext5").fitText(1.2);
+      $("#fittext6").fitText(2.2, { minFontSize: '0px', maxFontSize: '36px' });
     </script>
+
+    <!-- Holder -->
+    <script src="js/holder.js"></script>
   </body>
 </html>

@@ -16,7 +16,10 @@ p, .panel {
 	font-weight: 300;
 }
 .shadow {
-	text-shadow: black 0.2em 0.2em 0.4em;
+	text-shadow: black 0.2em 0.2em 0.3em;
+}
+.page-header {
+  color: #1E5BA6;
 }
 
 /* Navbar */
@@ -35,15 +38,15 @@ p, .panel {
 	position: absolute;
 }
 
-/* Background color */
+/* Body */
 body, .panel {
   background-color: #ebebeb;
 }
-
-/* Homepage masthead */
 body {
   padding-top: 50px;
 }
+
+/* Indicators */
 .home-masthead {
   position: relative;
   padding: 40px 40px 80px 40px;
@@ -57,18 +60,6 @@ body {
   background-position: center center;
   width: 100%;
 }
-
-/* Masthead2 */
-.home-masthead2 {
-  position: relative;
-  padding: 40px 15px;
-  padding: 40px 40px 80px 40px;
-  text-align: center;
-  background: #1E5BA6;
-  color: #fff;
- }
-
-/* Indicators */
 .indicators {
 	padding-top: 40px;
 }
@@ -86,8 +77,6 @@ body {
 .lg-icon {
 	font-size: 120px;
 }
-
-/* Font Awesome colors */
 .fa-success {
   color: #32cd32;
 }
@@ -98,3 +87,58 @@ body {
   color: #fa342e;
 }
 
+/* Organizations */
+.home-masthead2 {
+  position: relative;
+  padding: 40px 15px;
+  padding: 40px 40px 80px 40px;
+  text-align: center;
+  background: #1E5BA6;
+  color: #fff;
+ }
+.organizations {
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.img-org {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+/* Get Inovlved */
+.home-masthead3 {
+  position: relative;
+  padding: 40px 40px 240px 40px;
+  text-align: center;
+  background: #1E5BA6;
+  color: #fff;
+ }
+.get-involved {
+	padding-bottom: 40px;
+}
+.email_signup .form-control {
+  font-size: inherit;
+  height: 42px;
+}
+.email_signup {
+  margin-top: 20px;
+}
+.btn-outline {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 18px 24px;
+  font-size: 24px;
+}
+.btn-outline-inverse {
+  color: #FFFFFF;
+  background-color: transparent;
+  border-color: #FFFFFF
+}
+.btn-outline-inverse:hover,
+.btn-outline-inverse:focus,
+.btn-outline-inverse:active {
+  color: #1E5BA6;
+  text-shadow: none;
+  background-color: #fff;
+  border-color: #fff;
+}
