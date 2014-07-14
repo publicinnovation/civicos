@@ -35,7 +35,7 @@ To date, most civic data standards have been developed using a [push strategy](h
 CivicOS will empower community members to set standards for regional progress.
 
 ## Roadmap
-Public Innovation will pilot CivicOS in the Sacramento region during Summer 2014. Our initial geographic scope comprises the six county (and 22 city) [Sacramento Area Council of Governments (SACOG) region](http://www.sacog.org/about/). SACOG is a federally designated metropolitan planning organization (MPO), so the platform could be replicated at a regional level in other parts of the U.S. or at any other level with some customization.
+Public Innovation will pilot CivicOS in the Sacramento region during Fall 2014. Our initial geographic scope comprises the six county (and 22 city) [Sacramento Area Council of Governments (SACOG) region](http://www.sacog.org/about/). SACOG is a federally designated metropolitan planning organization (MPO), so the platform could be replicated at a regional level in other parts of the U.S. or at any other level with some customization.
 
 While additional components will be added to CivicOS, their implementation will depend on our ability to sustainably scale the platform.
 
